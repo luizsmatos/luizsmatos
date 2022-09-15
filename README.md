@@ -1,9 +1,7 @@
 ## *Olá! Prazer, Eu sou o Luiz Gustavo!* 👋
 
-- 😁 Em busca do sonho, passando por uma transição de Carreira.
-- 💻 Estou estudando para me tornar um Desenvolvedor Web.
-- 📚 Buscando conhecimento atraves da Trybe e Rocketseat.
-- 😍 Codar, estudar, lazer com a familia e games.
+- 💻 Desenvolvedor Back-end.
+- 😍 Codar, estudar, lazer e games.
 - 😄 Ele/dele
 
 ## Linguagens e Ferramentas:
