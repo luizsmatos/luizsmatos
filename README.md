@@ -16,7 +16,8 @@
 ---
 
 ### 🚀 Sobre mim
-Apaixonado por tecnologia e inovação, gosto de desafios que exigem **agilidade, eficiência e criatividade**.
+
+Sou apaixonado por tecnologia e inovação. Gosto de desafios que exigem agilidade, eficiência e criatividade.
 
 ---
 
